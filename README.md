@@ -1,3 +1,5 @@
-# Zenn CLI
+# zenn
 
-* [📘 How to use](https://zenn.dev/zenn/articles/zenn-cli-guide)
+## Description
+
+Zennの記事を書いたらここに置く
